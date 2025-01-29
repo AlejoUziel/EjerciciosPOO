@@ -1,7 +1,7 @@
 # Proyecto de Ejercicios en Java
 
 ## Descripción
-Este repositorio contiene una serie de ejercicios en Java desarrollados como parte de mi aprendizaje en Ingeniería en Sistemas. Cada ejercicio está diseñado para fortalecer conceptos clave en programación.
+Este repositorio contiene una serie de ejercicios en Java desarrollados como parte de mi aprendizaje en Ingeniería en Computación. Cada ejercicio está diseñado para fortalecer conceptos clave en programación.
 
 ## Datos del Desarrollador
 - **Nombre:** Alejandro
