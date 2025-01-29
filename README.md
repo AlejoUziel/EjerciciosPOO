@@ -16,7 +16,7 @@ Para ejecutar estos ejercicios, asegúrate de tener lo siguiente instalado en tu
 ## Instalación y Uso
 1. **Clonar este repositorio o descargar los archivos:**
    ```bash
-   git clone <https://github.com/AlejoUziel/EjerciciosPOO>
+   git clone https://github.com/AlejoUziel/EjerciciosPOO
    ```
 2. **Abrir el proyecto en Visual Studio Code:**
    - Abre VS Code y selecciona "Abrir carpeta".
