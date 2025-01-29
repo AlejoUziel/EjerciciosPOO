@@ -16,12 +16,11 @@ Para ejecutar estos ejercicios, asegúrate de tener lo siguiente instalado en tu
 ## Instalación y Uso
 1. **Clonar este repositorio o descargar los archivos:**
    ```bash
-   git clone <https://github.com/AlejoUziel/EjerciciosPOO/>
+   git clone <https://github.com/AlejoUziel/EjerciciosPOO>
    ```
 2. **Abrir el proyecto en Visual Studio Code:**
    - Abre VS Code y selecciona "Abrir carpeta".
    - Selecciona la carpeta del proyecto.
-   - Instala la extensión "Extension Pack for Java" si no la tienes.
 3. **Ejecutar los archivos Java:**
    - Abre el archivo `.java` que deseas ejecutar.
    - Haz clic en el botón "Ejecutar" o usa el atajo `Ctrl + F5`.
@@ -81,13 +80,5 @@ Para ejecutar estos ejercicios, asegúrate de tener lo siguiente instalado en tu
    - Crear varios productos y agregarlos a una factura.
    - Imprimir el desglose de la factura (productos, precios, descuentos, total final).
 
-## Archivo de Verificación de Google
-Para la verificación de Google, se incluye el siguiente identificador:
-```
-google-site-verification=l7FLBj4Jf8aZ4T5pLi9Qb3EHAfAMKwPGzi8TfTpxqtg
-```
-
-## Contacto
-Si tienes alguna pregunta o sugerencia, puedes contactarme a través de mis redes o correo electrónico.
 
 ¡Gracias por revisar este proyecto! 🚀
